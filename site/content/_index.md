@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Douglas Cumali. Emperor of Planet X Blog
+subtitle: The greatest street performer in the Universe!
+image: img/1000000108.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: The President of the United Federated Galaxies and Planets
+  text: As first contact and the Ambassador to mankind from Mother Nature I am the
+    world President by unanimous vote of all the sentient beings of Earth.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  heading: Mother Nature has come to me to represent them to mankind
+  text: "By mankind's refusal acknolege me and Mother Natures existence has
+    brought the whole Universe here to rectify the situation so as not lead the
+    Universe and back into back into the wars of Armageddon "
+products: []
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: "The Archangel Gabriel "
+  text: "Has named me his mortal combat champion to end and stop mankind reentrant
+    to Armageddon "
 ---
-
