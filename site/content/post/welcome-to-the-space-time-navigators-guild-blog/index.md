@@ -5,4 +5,4 @@ description: I am Douglas Cumali a grandmaster of space time navigation of the
   space time navigators guild
 image: 1000000109.jpg
 ---
-Studying for the last fifteen years here in San Francisco to become the greatest space time navigator in the Universe
+Studying for the last fifteen years here in San Francisco to become the greatest space time navigator in the Universe as well as first man of Earth navigator
