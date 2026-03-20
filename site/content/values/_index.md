@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/dc.jpg
+image: "/img/dc.jpg"
 values:
   - heading: "Emperor of Planet X"
     text: >
