@@ -1,5 +1,5 @@
 ---
-title: Douglas Cumali. Emperor of Planet X Blog
+title: "Douglas Cumali. Emperor of Planet X "
 subtitle: The greatest street performer in the Universe!
 image: img/1000000108.jpg
 blurb:
@@ -15,5 +15,5 @@ products: []
 values:
   heading: "The Archangel Gabriel "
   text: "Has named me his mortal combat champion to end and stop mankind reentrant
-    to Armageddon "
+    to Armageddon first and foremost a protector of the tree of life "
 ---
