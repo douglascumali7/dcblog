@@ -2,6 +2,7 @@
 title: "Douglas Cumali President of America "
 date: 2026-03-21T22:42:04.813Z
 description: "One man who declared war upon his own country "
+image: 1000000090.jpg
 ---
 \### The Unconventional Case of a One-Man War: A Study of Individual Agency and Legal Implications
 
