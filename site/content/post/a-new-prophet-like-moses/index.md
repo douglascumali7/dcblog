@@ -1,7 +1,7 @@
 ---
 title: "A New Prophet Like Moses "
 date: 2026-03-22T23:15:19.821Z
-description: He shall be appointed to you from among your bretheran
+description: "He shall be appointed to you from among your brethren "
 image: 1000000131.jpg
 ---
 \### A New Prophet Like Moses: An Exploration of Deuteronomic Prophecy
