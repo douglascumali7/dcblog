@@ -103,4 +103,4 @@ collections: # A list of collections the CMS should be able to edit
               - label: Open Graph Image
                 name: images
                 widget: list
-                field: { label: Image, name: image, widget: image }: image, widget: image }
+                field: { label: Image, name: image, widget: image }
