@@ -1,7 +1,7 @@
 ---
 title: "Suppression of first contact "
 date: 2026-03-22T09:32:13.240Z
-description: I as Ambassador to the stars
+description: I as Ambassador to and from the stars
 image: 1000000125.jpg
 ---
 \*\*The Suppression of First Contact and Extraterrestrial Evidence by the U.S. Government\*\*
