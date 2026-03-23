@@ -11,7 +11,9 @@ intro:
   text: "By mankind's refusal acknolege me and Mother Natures existence has
     brought the whole Universe here to rectify the situation so as not lead the
     Universe and back into back into the wars of Armageddon "
-products: []
+products:
+  - image: img/1000000136.jpg
+    text: "Associate membership to space Time Navigtors Guild "
 values:
   heading: "The Archangel Gabriel "
   text: "Has named me his mortal combat champion to end and stop mankind reentrant
