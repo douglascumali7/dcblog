@@ -1,7 +1,7 @@
 ---
 title: "Douglas Cumali. Emperor of Planet X "
 subtitle: The greatest street performer in the Universe!
-image: img/1000000091.jpg
+image: img/1000000133.jpg
 blurb:
   heading: The President of the United Federated Galaxies and Planets
   text: As first contact and the Ambassador to mankind from Mother Nature I am the
