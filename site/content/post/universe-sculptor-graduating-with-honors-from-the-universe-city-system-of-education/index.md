@@ -14,4 +14,6 @@ Celestial Mechanic  the master mechanic of the Universe
 
 Grandmaster of Martial Art and Martial Art in space time navigation 
 
-Grandmaster of the Elements and command of the Elements
+Ad under the tutorlidge of the Emperor of the Gold and Black
+
+Grandmaster of the Elements and Command of the Elements
